@@ -1,0 +1,13 @@
+PRNP	STIP1	activation
+PRNP	FYN	activation
+PRNP	MAP2K1	activation
+PRNP	MAP2K2	activation
+PRNP	NOTCH1	activation
+PRNP	SOD1	activation
+PRNP	BAX	inhibition
+MAP2K1	MAPK1	activation
+MAP2K1	MAPK3	activation
+MAP2K2	MAPK1	activation
+MAP2K2	MAPK3	activation
+MAPK1	ELK1	activation
+MAPK3	ELK1	activation

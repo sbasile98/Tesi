@@ -1,0 +1,2 @@
+DMGS	Average positive coverage	Average negative coverage	Differential coverage
+[SLC2A9, HNRNPL, GSTA5, EPSTI1, HHIPL1, UBR1, FNIP1, NBPF14, RAPGEF6, HS3ST4]	64.0%	18.37%	45.63%

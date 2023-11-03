@@ -1,0 +1,17 @@
+NLRC4	CASP1	activation
+PYCARD	CASP1	activation
+CASP1	IL18	activation
+CASP1	IL1B	activation
+CASP1	CASP7	activation
+NAIP	CASP7	activation
+NAIP	CASP1	activation
+CYCS	CASP9	activation
+CASP9	CASP3	activation
+APAF1	CASP9	activation
+EEF1A1	HSF1	activation
+EEF1A2	HSF1	activation
+TLR5	MYD88	activation
+TLR2	MYD88	activation
+TLR4	MYD88	activation
+CD14	TLR2	activation
+CD14	TLR4	activation

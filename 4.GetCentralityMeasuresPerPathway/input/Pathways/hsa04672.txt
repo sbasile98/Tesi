@@ -1,0 +1,11 @@
+TNFSF13	TNFRSF13B	activation
+TNFSF13	TNFRSF17	activation
+TNFSF13B	TNFRSF13B	activation
+TNFSF13B	TNFRSF17	activation
+TNFSF13B	TNFRSF13C	activation
+CD40LG	CD40	activation
+CD80	CD28	activation
+CD86	CD28	activation
+LTBR	MAP3K14	activation
+LOC102723996	ICOS	activation
+ICOSLG	ICOS	activation

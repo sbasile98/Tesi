@@ -1,0 +1,4 @@
+HGF	MET	activation
+TLR9	MYD88	activation
+TLR2	MYD88	activation
+TLR4	MYD88	activation

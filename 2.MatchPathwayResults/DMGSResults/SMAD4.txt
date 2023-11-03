@@ -1,0 +1,2 @@
+DMGS	Average positive coverage	Average negative coverage	Differential coverage
+[ARHGEF11, SMUG1, SMPD3, TMEM266, RABGAP1L, FANCD2OS, DAPP1, DNAH9, PLEKHA3, NEO1]	67.78%	28.89%	38.89%

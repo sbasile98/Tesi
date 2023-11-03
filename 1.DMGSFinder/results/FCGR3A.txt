@@ -1,0 +1,2 @@
+DMGS	Average positive coverage	Average negative coverage	Differential coverage
+[CALB2, FCGR2A, FCGR3B, TDG, SLCO1B3, VWA5A, TRIM48, PILRB, ZNF99, SLCO1B7]	38.69%	21.47%	17.22%

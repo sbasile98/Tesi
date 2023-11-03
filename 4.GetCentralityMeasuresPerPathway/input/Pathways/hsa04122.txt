@@ -1,0 +1,7 @@
+URM1	MOCS3	activation
+NFS1	MPST	activation
+NFS1	TST	activation
+NFS1	MOCS3	activation
+CTU1	CTU2	activation
+MPST	MOCS3	activation
+TST	MOCS3	activation

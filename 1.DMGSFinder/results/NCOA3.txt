@@ -1,0 +1,2 @@
+DMGS	Average positive coverage	Average negative coverage	Differential coverage
+[DOCK11, KIAA1109, EIF2S3, OR10H3, ELOVL2, ELN, CERCAM, PLEKHA6, CAPG, MEIS2]	43.63%	18.81%	24.81%

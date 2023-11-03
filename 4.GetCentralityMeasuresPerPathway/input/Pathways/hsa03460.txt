@@ -1,0 +1,12 @@
+FANCD2	BRCA2	activation
+FANCD2	FAN1	activation
+PALB2	RAD51C	activation
+TELO2	ATR	activation
+BRCA2	RAD51	activation
+BRCA2	RAD51C	activation
+BRIP1	MLH1	activation
+BRIP1	PMS2	activation
+FAN1	MLH1	activation
+FAN1	PMS2	activation
+USP1	FANCL	inhibition
+WDR48	FANCL	inhibition

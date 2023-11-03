@@ -1,0 +1,3 @@
+ALOX15	0
+SAT1	0
+SAT2	0

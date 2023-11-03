@@ -1,0 +1,10 @@
+TNFSF11	TNFRSF11A	activation
+CD80	CD28	activation
+CD80	CTLA4	activation
+CD86	CD28	activation
+CD86	CTLA4	activation
+VEGFA	FLT1	activation
+TLR2	FOS	activation
+TLR2	JUN	activation
+TLR4	FOS	activation
+TLR4	JUN	activation

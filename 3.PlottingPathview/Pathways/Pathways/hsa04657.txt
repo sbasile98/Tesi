@@ -1,0 +1,4 @@
+MAP3K7	IKBKB	activation
+TRAF6	MAP3K7	activation
+NFKBIA	NFKB1	inhibition
+NFKBIA	RELA	inhibition

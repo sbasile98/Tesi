@@ -1,0 +1,2 @@
+DMGS	Average positive coverage	Average negative coverage	Differential coverage
+[EIF2S3B, STIL, USP31, ATRNL1, IL1R2, SP3, IL31RA, HAS2, PLEKHA6, TNRC6A]	88.18%	18.08%	70.1%

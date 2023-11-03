@@ -1,0 +1,2 @@
+DMGS	Average positive coverage	Average negative coverage	Differential coverage
+[ITIH5, TMEM132D, OPHN1, DSCAM, RPS6KA2, IL1R2, HAS2, MYRIP, CSMD1, PHEX]	63.86%	19.82%	44.04%

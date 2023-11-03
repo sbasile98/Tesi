@@ -1,0 +1,2 @@
+DMGS	Average positive coverage	Average negative coverage	Differential coverage
+[RMND5A, TMEM132E, TMEM138, CAMTA1, RELCH, ITPR3, SRGAP1, TMC3, WLS, IL18BP]	100.0%	11.37%	88.63%

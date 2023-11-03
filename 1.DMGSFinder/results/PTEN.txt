@@ -1,0 +1,2 @@
+DMGS	Average positive coverage	Average negative coverage	Differential coverage
+[FANCI, GSTA5, SUSD1, EPSTI1, CACNA2D3, XPO7, SNX24, UBR1, DCN, FAM83B]	80.0%	17.0%	63.0%

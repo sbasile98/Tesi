@@ -1,0 +1,3 @@
+CNOT7
+CNOT8
+PAN3

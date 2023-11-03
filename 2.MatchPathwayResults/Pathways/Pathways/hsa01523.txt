@@ -1,0 +1,6 @@
+CHUK	NFKB1	activation
+CHUK	RELA	activation
+IKBKB	NFKB1	activation
+IKBKB	RELA	activation
+IKBKG	NFKB1	activation
+IKBKG	RELA	activation

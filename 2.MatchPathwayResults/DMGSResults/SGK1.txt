@@ -1,0 +1,2 @@
+DMGS	Average positive coverage	Average negative coverage	Differential coverage
+[DOCK11, USP26, XPO4, IL1R2, SP3, CCN6, PLEKHA6, NIPA2, LIPA, TANC2]	83.24%	17.21%	66.03%

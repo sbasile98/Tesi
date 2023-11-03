@@ -1,0 +1,2 @@
+DMGS	Average positive coverage	Average negative coverage	Differential coverage
+[SPTA1, FGD6, GNL3L, IL1R2, ELOVL2, IL31RA, WFDC1, PGC, PJA2, TNRC6A]	80.0%	17.92%	62.08%

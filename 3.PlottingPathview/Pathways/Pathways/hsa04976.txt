@@ -1,0 +1,14 @@
+SCTR	GNAS	activation
+GNAS	ADCY1	activation
+GNAS	ADCY2	activation
+GNAS	ADCY3	activation
+GNAS	ADCY5	activation
+GNAS	ADCY6	activation
+GNAS	ADCY7	activation
+GNAS	ADCY8	activation
+GNAS	ADCY9	activation
+GNAS	ADCY4	activation
+PRKACA	CFTR	activation
+PRKACB	CFTR	activation
+PRKACG	CFTR	activation
+SCT	SCTR	activation

@@ -1,0 +1,8 @@
+JUP	LEF1	activation
+JUP	TCF7	activation
+JUP	TCF7L2	activation
+JUP	TCF7L1	activation
+CTNNB1	LEF1	activation
+CTNNB1	TCF7	activation
+CTNNB1	TCF7L2	activation
+CTNNB1	TCF7L1	activation

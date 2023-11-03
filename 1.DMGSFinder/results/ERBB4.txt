@@ -1,0 +1,2 @@
+DMGS	Average positive coverage	Average negative coverage	Differential coverage
+[FLG, FAM234A, PRDM9, ODF1, FBXW10, SLC35F3, DNAAF3, CBWD2, TNNI3, OR4F21]	57.21%	27.05%	30.16%

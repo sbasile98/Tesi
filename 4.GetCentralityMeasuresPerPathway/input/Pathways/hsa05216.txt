@@ -1,0 +1,13 @@
+HRAS	BRAF	activation
+KRAS	BRAF	activation
+NRAS	BRAF	activation
+BRAF	MAP2K1	activation
+BRAF	MAP2K2	activation
+MAP2K1	MAPK1	activation
+MAP2K1	MAPK3	activation
+MAP2K2	MAPK1	activation
+MAP2K2	MAPK3	activation
+CTNNB1	LEF1	activation
+CTNNB1	TCF7	activation
+CTNNB1	TCF7L2	activation
+CTNNB1	TCF7L1	activation

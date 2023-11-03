@@ -1,0 +1,2 @@
+DMGS	Average positive coverage	Average negative coverage	Differential coverage
+[DOCK11, FCGR3A, STIL, SP3, PLEKHA6, NIPA2, FCGR2C, COLGALT1, TANC2, PJA2]	34.92%	11.37%	23.56%

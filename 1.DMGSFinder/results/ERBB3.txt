@@ -1,0 +1,2 @@
+DMGS	Average positive coverage	Average negative coverage	Differential coverage
+[TIAM2, FADS2, MED1, RBFOX1, PARG, NUP155, TDG, LRRC39, PSIP1, AGFG2]	85.0%	16.21%	68.79%

@@ -1,0 +1,5 @@
+CD40LG	CD40	activation
+LOC102723407	TSHR	activation
+FASLG	FAS	activation
+CD80	CD28	activation
+CD86	CD28	activation

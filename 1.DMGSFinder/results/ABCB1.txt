@@ -1,0 +1,2 @@
+DMGS	Average positive coverage	Average negative coverage	Differential coverage
+[DENND1B, CAPN11, GSTA5, ATP8B1, GDA, TNS3, RAPGEF6, FAM83B, FAM107B, LRP6]	64.58%	16.05%	48.53%

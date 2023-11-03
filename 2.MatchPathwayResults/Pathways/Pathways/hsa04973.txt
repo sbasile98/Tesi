@@ -1,0 +1,10 @@
+AKT3	SLC2A5	activation
+AKT1	SLC2A5	activation
+AKT2	SLC2A5	activation
+TAS1R2	GNAT3	activation
+TAS1R3	GNAT3	activation
+GNAT3	PLCB1	activation
+GNAT3	PLCB2	activation
+GNAT3	PLCB3	activation
+GNAT3	PLCB4	activation
+PRKCB	SLC2A2	activation

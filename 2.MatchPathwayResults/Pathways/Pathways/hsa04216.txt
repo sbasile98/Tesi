@@ -1,0 +1,2 @@
+SAT2	ALOX15	activation
+SAT1	ALOX15	activation

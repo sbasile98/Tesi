@@ -1,0 +1,12 @@
+APOA1	LCAT	activation
+APOC1	LCAT	activation
+APOC1	CETP	inhibition
+APOC2	LPL	activation
+ANGPTL3	LPL	inhibition
+ANGPTL4	LPL	inhibition
+ANGPTL8	ANGPTL3	activation
+ANGPTL8	ANGPTL4	activation
+APOH	LPL	activation
+PCSK9	LDLR	inhibition
+LRPAP1	LRP1	inhibition
+LRPAP1	LRP2	inhibition

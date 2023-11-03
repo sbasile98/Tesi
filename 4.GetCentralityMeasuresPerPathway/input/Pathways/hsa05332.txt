@@ -1,0 +1,3 @@
+FASLG	FAS	activation
+CD80	CD28	activation
+CD86	CD28	activation

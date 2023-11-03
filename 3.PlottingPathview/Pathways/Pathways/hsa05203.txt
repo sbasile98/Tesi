@@ -1,0 +1,4 @@
+PSMC1	RB1	inhibition
+MDM2	TP53	inhibition
+CREBBP	TP53	inhibition
+EP300	TP53	inhibition

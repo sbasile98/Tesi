@@ -1,0 +1,2 @@
+DMGS	Average positive coverage	Average negative coverage	Differential coverage
+[DOCK11, SGCD, OR10H3, TTC3, CASP4, ERBIN, PLEKHA6, KIAA1958, FER1L6, TANC2]	74.78%	17.98%	56.8%

@@ -1,0 +1,2 @@
+DMGS	Average positive coverage	Average negative coverage	Differential coverage
+[C1QB, CHRM3, MLLT10, FLT1, GRK5, CLEC10A, FNIP1, RAPGEF6, TNS3, GDPGP1]	95.0%	10.04%	84.96%

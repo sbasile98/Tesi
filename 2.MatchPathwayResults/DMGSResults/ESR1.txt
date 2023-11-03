@@ -1,0 +1,2 @@
+DMGS	Average positive coverage	Average negative coverage	Differential coverage
+[RAB31, VWF, PSPC1, SLC35B1, STK38, RABL2B, MTR, GCC2, DIP2C, ANO2]	86.0%	19.12%	66.88%

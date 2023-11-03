@@ -1,0 +1,2 @@
+DMGS	Average positive coverage	Average negative coverage	Differential coverage
+[EEF1A1, ZFYVE26, NKAIN3, WDR93, ATP8B1, SLC35B1, KIF13A, EMC3, TFB2M, LGALS8]	90.0%	16.31%	73.69%
